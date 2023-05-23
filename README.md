@@ -1,4 +1,10 @@
-### Hi there 👋
+I'm a junior Full-Stack developer.
+
+I love designing user interfaces.
+
+I use Java and Spring on Back-end and React on Front-end.
+
+Contact me: josepgs12@gmail.com
 
 <!--
 **Xuspiii/Xuspiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
