@@ -1,22 +1,19 @@
-I'm a junior Full-Stack developer.
+Josep García: Full-Stack Developer
 
-I love designing user interfaces.
+¡Hola! Soy Josep, un entusiasta desarrollador Full-Stack junior con un aprecio particular por el diseño de interfaces de usuario. Me apasiona crear experiencias digitales que son intuitivas, elegantes y emocionantes para los usuarios.
 
-I use Java and Spring on Back-end and React on Front-end.
 
-Contact me: josepgs12@gmail.com
+Tengo experiencia trabajando con una variedad de tecnologías para el desarrollo de software:
 
-<!--
-**Xuspiii/Xuspiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    Back-end: Principalmente desarrollo con Java y el framework Spring para crear servicios web robustos y eficientes.
+    Front-end: Utilizo React para desarrollar interfaces de usuario dinámicas y atractivas.
 
-Here are some ideas to get you started:
+Estoy constantemente buscando expandir mi conjunto de habilidades y me encanta aprender sobre nuevas tecnologías y herramientas.
+Contacto
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Si quieres discutir alguna oportunidad de trabajo, colaboración en un proyecto o simplemente quieres charlar sobre desarrollo de software, no dudes en ponerse en contacto conmigo:
+
+    Correo electrónico: josepgs12@gmail.com
+
+Siempre estoy abierto a nuevas oportunidades y desafíos. ¡Espero escuchar de ti pronto!
